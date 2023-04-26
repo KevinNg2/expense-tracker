@@ -5,6 +5,9 @@ This is a React projecting showcasing a Expense Tracker featurinng functional co
 
 https://expense-tracker-react-kn.netlify.app/
 
+![expense-tracker](./images/expense-tracker-pic.png)
+
+
 
 ## Usage
 ```
@@ -17,7 +20,6 @@ npm start
 npm run build
 ```
 
-## Usage
 Users will input total amount of money recieved or total amount of money spent. The tracker will display total balance with income and expenses. 
 
 ## Credits
