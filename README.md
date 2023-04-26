@@ -1,6 +1,8 @@
-# Expense Tracker (React)
+# Expense Tracker
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
+## Description
+This is a React projecting showcasing a Expense Tracker featurinng functional components with hooks and the context API. A fun and easy way to track and manage all your expenses and ways of income!
+
 
 ## Usage
 ```
@@ -12,4 +14,13 @@ npm start
 # Build for prod
 npm run build
 ```
+
+## Usage
+Users will input total amount of money recieved or total amount of money spent. The tracker will display total balance with income and expenses. 
+
+## Credits
+Kevin Ng 
+Inspired by Brad Traversy
+
+
 
